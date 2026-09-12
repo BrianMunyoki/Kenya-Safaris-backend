@@ -8,7 +8,7 @@ class DestinationAdmin(admin.ModelAdmin):
     list_display = ("name", "tag", "is_published", "order")
     list_editable = ("is_published", "order")
     list_filter = ("is_published", "tag")
-    search_fields = ("name", "description")
+    search_fields = ("title", "subtitle", "overview", "tag")
     prepopulated_fields = {"slug": ("name",)}
 
 
@@ -17,5 +17,5 @@ class SafariPackageAdmin(admin.ModelAdmin):
     list_display = ("title", "destination", "price_label", "badge", "is_published", "order")
     list_editable = ("is_published", "order")
     list_filter = ("is_published", "destination", "badge")
-    search_fields = ("title", "description")
+    search_fields = ("title", "subtitle", "overview", "tag")
     prepopulated_fields = {"slug": ("title",)}
