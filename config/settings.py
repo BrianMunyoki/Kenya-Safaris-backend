@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     # third-party
     "rest_framework",
     "corsheaders",
+    "django_prose_editor",
     # local apps
     "catalog",
     "leads",
