@@ -1,0 +1,432 @@
+{
+  "pages": [
+    {
+      "slug": "about-us",
+      "title": "About Savanna & Beyond",
+      "subtitle": "Owner-operated, Kenya-based, and deeply committed to the places and people that make East African travel extraordinary.",
+      "hero_image_url": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "hero_image_alt": "Safari guide looking over the Masai Mara",
+      "hero_tag": "Our Story",
+      "body": "",
+      "sections": [
+        {
+          "section_key": "story",
+          "kicker": "Our Story",
+          "heading": "Born on the plains of the Masai Mara.",
+          "order": 10,
+          "content": "<p>Savanna & Beyond was founded in 2009 by James Kariuki, a KPSGA-certified guide who spent a decade working for international safari companies before realising that the people who understood Kenya best were rarely the ones designing the itineraries.</p><p>We started with two vehicles and a simple premise: build safaris the way a knowledgeable friend would — with genuine expertise, complete transparency, and an uncompromising commitment to the client experience.</p><p>Fifteen years later, we operate across Kenya and five other African countries. Our team of 40 includes some of the most experienced field guides in East Africa, a dedicated DMC division, and an operations team that runs 24 hours a day, 365 days a year.</p>",
+          "items": [
+            {
+              "title": "Founded",
+              "value": "2009",
+              "order": 1
+            },
+            {
+              "title": "Team Members",
+              "value": "40+",
+              "order": 2
+            },
+            {
+              "title": "Countries",
+              "value": "6",
+              "order": 3
+            },
+            {
+              "title": "James Kariuki guiding",
+              "image_url": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=400&h=500&fit=crop&auto=format",
+              "image_alt": "James Kariuki guiding",
+              "order": 10
+            },
+            {
+              "title": "Safari camp",
+              "image_url": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=400&h=300&fit=crop&auto=format",
+              "image_alt": "Safari camp",
+              "order": 11
+            },
+            {
+              "title": "Team in the field",
+              "image_url": "https://images.unsplash.com/photo-1612178537253-bccd437b730e?w=400&h=300&fit=crop&auto=format",
+              "image_alt": "Team in the field",
+              "order": 12
+            }
+          ]
+        },
+        {
+          "section_key": "team",
+          "kicker": "The people behind your safari",
+          "heading": "Our Team",
+          "order": 20,
+          "items": [
+            {
+              "title": "James Kariuki",
+              "subtitle": "Founder & Head Guide",
+              "label": "22 years experience",
+              "image_url": "https://images.unsplash.com/photo-1589825743636-0a12a3c9bfbe?w=300&h=300&fit=crop&auto=format",
+              "image_alt": "James Kariuki",
+              "order": 1
+            },
+            {
+              "title": "Amina Ochieng",
+              "subtitle": "Head of Operations",
+              "label": "14 years experience",
+              "image_url": "https://images.unsplash.com/photo-1504173010664-32509107de42?w=300&h=300&fit=crop&auto=format",
+              "image_alt": "Amina Ochieng",
+              "order": 2
+            },
+            {
+              "title": "David Nkosi",
+              "subtitle": "Senior Safari Guide",
+              "label": "18 years experience",
+              "image_url": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=300&h=300&fit=crop&auto=format",
+              "image_alt": "David Nkosi",
+              "order": 3
+            },
+            {
+              "title": "Sarah Wanjiru",
+              "subtitle": "DMC & Corporate Manager",
+              "label": "11 years experience",
+              "image_url": "https://images.unsplash.com/photo-1520116468816-95b69f847357?w=300&h=300&fit=crop&auto=format",
+              "image_alt": "Sarah Wanjiru",
+              "order": 4
+            }
+          ]
+        },
+        {
+          "section_key": "certifications",
+          "heading": "Certifications",
+          "order": 30,
+          "items": [
+            {
+              "title": "KATA Licensed",
+              "order": 1
+            },
+            {
+              "title": "KATO Member",
+              "order": 2
+            },
+            {
+              "title": "KPSGA Certified Guides",
+              "order": 3
+            },
+            {
+              "title": "Travelife Sustainable Partner",
+              "order": 4
+            },
+            {
+              "title": "TripAdvisor Certificate of Excellence",
+              "order": 5
+            }
+          ]
+        },
+        {
+          "section_key": "actions",
+          "order": 40,
+          "items": [
+            {
+              "title": "Our Sustainability Commitment",
+              "link_label": "Our Sustainability Commitment →",
+              "link_url": "/about/sustainability",
+              "order": 1
+            },
+            {
+              "title": "Get in Touch",
+              "link_label": "Get in Touch",
+              "link_url": "/contact",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sustainability",
+      "title": "Sustainability",
+      "subtitle": "Responsible travel is not an add-on — it's how we operate. Our commitment to the wild places and people of Kenya is written into every decision we make.",
+      "hero_image_url": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "hero_image_alt": "Masai Mara wilderness",
+      "hero_tag": "Responsible Safari",
+      "body": "",
+      "sections": [
+        {
+          "section_key": "pillars",
+          "heading": "Our Sustainability Pillars",
+          "order": 10,
+          "items": [
+            {
+              "title": "Wildlife Conservation",
+              "icon": "◉",
+              "content": "<p>We contribute 2% of every booking to the Mara–Serengeti conservation fund and support anti-poaching units in the reserves we operate in.</p>",
+              "order": 1
+            },
+            {
+              "title": "Community Investment",
+              "icon": "◎",
+              "content": "<p>Over 85% of our staff come from Maasai and Kikuyu communities adjacent to the parks. We run a scholarship fund supporting 34 students annually.</p>",
+              "order": 2
+            },
+            {
+              "title": "Low-Impact Travel",
+              "icon": "◇",
+              "content": "<p>Maximum vehicle numbers per sighting, off-road driving only in conservancies with lower visitor density, and strict adherence to park codes of conduct.</p>",
+              "order": 3
+            },
+            {
+              "title": "Carbon Commitment",
+              "icon": "◈",
+              "content": "<p>We offset all ground transport emissions through the Lewa Wildlife Conservancy reforestation programme and are working toward net-zero by 2028.</p>",
+              "order": 4
+            },
+            {
+              "title": "Camp Standards",
+              "icon": "✦",
+              "content": "<p>We only partner with lodges and camps that meet our sustainability checklist — solar power, waste management, grey water systems, and local procurement.</p>",
+              "order": 5
+            },
+            {
+              "title": "Responsible Photography",
+              "icon": "◐",
+              "content": "<p>Our guides are trained in responsible wildlife photography ethics — no baiting, no crowding, no disturbing natural behaviour for a shot.</p>",
+              "order": 6
+            }
+          ]
+        },
+        {
+          "section_key": "cta",
+          "kicker": "Travelife Certified Partner",
+          "heading": "Africa is worth protecting.",
+          "content": "<p>The wilderness that makes our safaris extraordinary is only here because it has been protected. Every safari we operate is a vote for conservation.</p>",
+          "link_label": "Plan a Responsible Safari",
+          "link_url": "/plan-my-trip",
+          "order": 20
+        }
+      ]
+    },
+    {
+      "slug": "press-media",
+      "title": "Press & Media",
+      "subtitle": "Press coverage, awards, and media enquiries for Savanna & Beyond Kenya.",
+      "hero_image_url": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "hero_image_alt": "Kenya safari landscape",
+      "hero_tag": "Media",
+      "body": "",
+      "sections": [
+        {
+          "section_key": "press-coverage",
+          "kicker": "Press Coverage",
+          "heading": "Press Coverage",
+          "order": 10,
+          "items": [
+            {
+              "title": "\"The Best Safari Companies in Africa\"",
+              "label": "Condé Nast Traveller",
+              "value": "2025",
+              "content": "<p>Savanna & Beyond continues to set the benchmark for tailor-made Kenya safaris, combining deep field expertise with an unwavering commitment to responsible travel.</p>",
+              "order": 1
+            },
+            {
+              "title": "\"Kenya's Hidden Safari Gems\"",
+              "label": "The Guardian",
+              "value": "2025",
+              "content": "<p>James Kariuki and his team know the Mara like few others — our guide spent two days pointing out lion families by name.</p>",
+              "order": 2
+            },
+            {
+              "title": "\"Top 25 Safari Outfitters Worldwide\"",
+              "label": "Travel + Leisure",
+              "value": "2024",
+              "content": "<p>Recognised for exceptional personalised service and consistent excellence in guiding quality.</p>",
+              "order": 3
+            },
+            {
+              "title": "\"Migration Specialists\"",
+              "label": "BBC Wildlife Magazine",
+              "value": "2024",
+              "content": "<p>For the Great Migration, Savanna & Beyond's guides hold decades of experience reading the crossings — and it shows.</p>",
+              "order": 4
+            }
+          ]
+        },
+        {
+          "section_key": "awards",
+          "kicker": "Awards & Recognition",
+          "heading": "Awards & Recognition",
+          "order": 20,
+          "items": [
+            {
+              "title": "Travelife Gold Certification 2024",
+              "order": 1
+            },
+            {
+              "title": "TripAdvisor Travellers' Choice 2023–2025",
+              "order": 2
+            },
+            {
+              "title": "Kenya Tourism Federation Award 2024",
+              "order": 3
+            },
+            {
+              "title": "World Travel Awards — East Africa's Leading Safari Company 2024",
+              "order": 4
+            }
+          ]
+        },
+        {
+          "section_key": "media-enquiries",
+          "kicker": "Media Enquiries",
+          "heading": "Media Enquiries",
+          "content": "<p>For press trips, interviews, photography access, or media partnerships, please contact our communications team.</p>",
+          "order": 30,
+          "items": [
+            {
+              "title": "Media Contact",
+              "value": "media@safarico.ke",
+              "link_url": "mailto:media@safarico.ke",
+              "order": 1
+            },
+            {
+              "title": "Telephone",
+              "value": "+254 700 000 000",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "section_key": "high-res-assets",
+          "kicker": "High-Res Assets",
+          "heading": "High-Res Assets",
+          "content": "<p>Photography and brand assets available on request for editorial use.</p>",
+          "link_label": "Request Assets",
+          "link_url": "mailto:media@safarico.ke",
+          "order": 40
+        }
+      ]
+    },
+    {
+      "slug": "dmc-corporate",
+      "title": "DMC & Corporate Travel",
+      "subtitle": "Kenya's trusted destination management partner — handling groups, incentives, corporate events, and VIP travel with precision and discretion.",
+      "hero_image_url": "https://images.unsplash.com/photo-1504173010664-32509107de42?w=1800&h=900&fit=crop&auto=format",
+      "hero_image_alt": "Corporate event in Kenya bush setting",
+      "hero_tag": "Destination Management",
+      "body": "",
+      "sections": [
+        {
+          "section_key": "services",
+          "kicker": "Services",
+          "heading": "What We Handle",
+          "order": 10,
+          "items": [
+            {
+              "title": "VIP Arrival & Departure",
+              "icon": "✈",
+              "content": "<p>Meet-and-greet at Jomo Kenyatta International Airport, fast-track immigration assistance, private transfers, and porter service — first and last impressions handled flawlessly.</p>",
+              "order": 1
+            },
+            {
+              "title": "Group Logistics",
+              "icon": "◎",
+              "content": "<p>End-to-end logistics management for groups of 10 to 500 — rooming lists, meal management, transport coordination, and real-time communication protocols.</p>",
+              "order": 2
+            },
+            {
+              "title": "Ground Handling",
+              "icon": "◈",
+              "content": "<p>Full-service ground handling across Kenya and East Africa — vetted vehicle fleets, licensed guide teams, and 24/7 operations desk.</p>",
+              "order": 3
+            },
+            {
+              "title": "Crisis Management",
+              "icon": "◉",
+              "content": "<p>Dedicated crisis protocols, medical evacuation partnerships, and 24-hour response teams. Your delegates are never on their own.</p>",
+              "order": 4
+            },
+            {
+              "title": "MICE Travel",
+              "icon": "◐",
+              "content": "<p>Conferences, incentive travel, exhibitions, and corporate events across Kenya's finest venues — from Nairobi hotels to tented conference facilities in the bush.</p>",
+              "order": 5
+            },
+            {
+              "title": "Corporate Retreats",
+              "icon": "◇",
+              "content": "<p>Safari-based leadership retreats and team-building programmes in the Masai Mara, Amboseli, or the Rift Valley — where nature amplifies perspective.</p>",
+              "order": 6
+            },
+            {
+              "title": "Bespoke Events",
+              "icon": "✦",
+              "content": "<p>Private dinners under the stars, sundowner experiences on the escarpment, bush weddings, and product launches — designed around your brand.</p>",
+              "order": 7
+            }
+          ]
+        },
+        {
+          "section_key": "why-dmc",
+          "kicker": "Why Savanna & Beyond DMC",
+          "heading": "Decades of in-market expertise.",
+          "link_label": "Request a Proposal",
+          "link_url": "/contact",
+          "order": 20,
+          "items": [
+            {
+              "title": "KATA and KATO licensed DMC operator",
+              "order": 1
+            },
+            {
+              "title": "Fleet of 40+ safari vehicles and coaches",
+              "order": 2
+            },
+            {
+              "title": "Multilingual guide and logistics team",
+              "order": 3
+            },
+            {
+              "title": "Vetted hotel and venue partners across Kenya",
+              "order": 4
+            },
+            {
+              "title": "24/7 operations desk and dedicated account managers",
+              "order": 5
+            },
+            {
+              "title": "Comprehensive liability insurance and bonding",
+              "order": 6
+            }
+          ]
+        },
+        {
+          "section_key": "clients",
+          "kicker": "We work with",
+          "heading": "We work with",
+          "order": 30,
+          "items": [
+            {
+              "title": "Multinational Corporations",
+              "order": 1
+            },
+            {
+              "title": "Event Management Companies",
+              "order": 2
+            },
+            {
+              "title": "International NGOs",
+              "order": 3
+            },
+            {
+              "title": "Diplomatic Missions",
+              "order": 4
+            },
+            {
+              "title": "Luxury Travel Agencies",
+              "order": 5
+            },
+            {
+              "title": "Sports & Entertainment Groups",
+              "order": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

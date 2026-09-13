@@ -1,0 +1,2945 @@
+{
+  "generated_from": "Kenya Safari Navigation Menu V1.zip",
+  "package_count": 48,
+  "faq_count": 8,
+  "packages": [
+    {
+      "slug": "masai-mara-2day",
+      "source_path": "/kenya-safaris/masai-mara/2-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "2-Day Masai Mara Safari",
+      "subtitle": "A compact introduction to Africa's most celebrated wildlife reserve — two game drives, one unforgettable night in the bush.",
+      "tag": "Masai Mara",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Game drive in Masai Mara",
+      "duration": "2 Days / 1 Night",
+      "price_label": "From USD 395 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "This two-day safari is the ideal introduction to the Masai Mara. Departing Nairobi after breakfast, you'll arrive in time for an afternoon game drive — the golden hour light brings predators out and photographic opportunities abound. Spend the night at a classic bush camp before an early-morning drive at first light, when lions and cheetah are most active. Return to Nairobi after lunch.",
+      "highlights": [
+        "Afternoon & morning game drives",
+        "Big Five sightings",
+        "Tented bush camp",
+        "All meals included",
+        "KPSGA-certified guide",
+        "Park entry fees"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Nairobi → Masai Mara",
+          "desc": "Depart Nairobi at 07:00 by 4×4. Arrive Mara by noon, lunch at camp, then afternoon game drive from 15:00–18:30. Dinner and overnight at bush camp."
+        },
+        {
+          "day": "Day 2",
+          "title": "Masai Mara → Nairobi",
+          "desc": "Early wake-up for a 06:00 game drive — the best hours for predator activity. Return to camp for breakfast, then drive back to Nairobi, arriving by 17:00."
+        }
+      ],
+      "includes": [
+        "Round-trip transport from Nairobi",
+        "All meals (full board)",
+        "Professional guide",
+        "Park entrance fees",
+        "Accommodation",
+        "Bottled water en route"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Tips & gratuities",
+        "Balloon safari",
+        "Personal items"
+      ],
+      "related_links": [
+        {
+          "label": "3-Day Masai Mara",
+          "to": "/kenya-safaris/masai-mara/3-day"
+        },
+        {
+          "label": "4-Day Masai Mara",
+          "to": "/kenya-safaris/masai-mara/4-day"
+        },
+        {
+          "label": "Group Safari",
+          "to": "/kenya-safaris/group-safaris/masai-mara/2-day"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "masai-mara-3day",
+      "source_path": "/kenya-safaris/masai-mara/3-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "3-Day Masai Mara Safari",
+      "subtitle": "Our most popular package — two full days of game driving give you the best odds of witnessing the Big Five on the open plain.",
+      "tag": "Masai Mara",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Lions resting in Masai Mara",
+      "duration": "3 Days / 2 Nights",
+      "price_label": "From USD 595 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "The three-day Masai Mara safari is our most-booked itinerary — and for good reason. Two full game-drive days give you real time to explore the reserve, follow lion prides, track cheetah on the open plain, and watch elephant herds move through the acacia woodland at dusk.",
+      "highlights": [
+        "Two full days of game drives",
+        "Big Five",
+        "Sunrise & sunset drives",
+        "Maasai village option",
+        "Full-board bush camp",
+        "KPSGA-certified guide"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Nairobi → Masai Mara",
+          "desc": "Depart Nairobi at 07:00. Arrive camp by noon. Lunch, then afternoon game drive 15:00–18:30. Sundowners on the plain. Dinner and overnight."
+        },
+        {
+          "day": "Day 2",
+          "title": "Full Day in the Mara",
+          "desc": "Full day game driving — early start at 06:00. Return to camp for lunch. Afternoon drive from 15:00, finishing at sunset. Optional Maasai village visit."
+        },
+        {
+          "day": "Day 3",
+          "title": "Masai Mara → Nairobi",
+          "desc": "Final morning drive at 06:30. Breakfast at camp. Depart for Nairobi, arriving by 17:00."
+        }
+      ],
+      "includes": [
+        "Round-trip transport",
+        "All meals (full board)",
+        "Professional guide",
+        "Park fees",
+        "Camp accommodation",
+        "Bottled water"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Gratuities",
+        "Balloon safari",
+        "Maasai village entry fee"
+      ],
+      "related_links": [
+        {
+          "label": "4-Day Masai Mara",
+          "to": "/kenya-safaris/masai-mara/4-day"
+        },
+        {
+          "label": "Migration Safari",
+          "to": "/kenya-safaris/masai-mara/migration"
+        },
+        {
+          "label": "Fly-In Safari",
+          "to": "/kenya-safaris/masai-mara/fly-in"
+        }
+      ],
+      "badge": "Best Seller"
+    },
+    {
+      "slug": "masai-mara-4day",
+      "source_path": "/kenya-safaris/masai-mara/4-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "4-Day Masai Mara Safari",
+      "subtitle": "Three game-drive days to explore multiple zones of the reserve — from the Mara Triangle to the Sand River boundary.",
+      "tag": "Masai Mara",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Cheetah hunting in Masai Mara",
+      "duration": "4 Days / 3 Nights",
+      "price_label": "From USD 795 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "Four days allows you to properly explore the reserve's different zones. The Mara Triangle — managed by the Mara Conservancy — is less crowded and often has exceptional leopard sightings. The Sand River sector near the Tanzanian border is the epicentre of the wildebeest crossing during migration season.",
+      "highlights": [
+        "Three full game-drive days",
+        "Mara Triangle access",
+        "Sundowner bush dinners",
+        "KPSGA guide",
+        "Big Five",
+        "Full-board camp"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Nairobi → Masai Mara",
+          "desc": "Drive from Nairobi, arriving by midday. Afternoon game drive in the central Mara."
+        },
+        {
+          "day": "Day 2",
+          "title": "Mara Triangle",
+          "desc": "Full day in the Mara Triangle — dramatically less traffic, exceptional leopard and cheetah habitat."
+        },
+        {
+          "day": "Day 3",
+          "title": "Sand River Sector",
+          "desc": "Explore the Sand River area and Tanzanian border zones. Sundowner on the escarpment."
+        },
+        {
+          "day": "Day 4",
+          "title": "Morning Drive → Nairobi",
+          "desc": "Final dawn drive, then breakfast and return drive to Nairobi."
+        }
+      ],
+      "includes": [
+        "Round-trip transport",
+        "All meals",
+        "Guide",
+        "Park fees",
+        "Accommodation",
+        "Water"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Tips",
+        "Balloon safari",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "5-Day Safari",
+          "to": "/kenya-safaris/masai-mara/5-day"
+        },
+        {
+          "label": "7-Day Safari",
+          "to": "/kenya-safaris/masai-mara/7-day"
+        },
+        {
+          "label": "Luxury Version",
+          "to": "/kenya-safaris/masai-mara/luxury"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "masai-mara-5day",
+      "source_path": "/kenya-safaris/masai-mara/5-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "5-Day Masai Mara Safari",
+      "subtitle": "An unhurried stay — time for game drives, a Maasai village immersion, and a guided dawn bush walk.",
+      "tag": "Masai Mara",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Sunrise game drive Masai Mara",
+      "duration": "5 Days / 4 Nights",
+      "price_label": "From USD 995 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "Five days is the sweet spot for a thorough Masai Mara experience. Beyond game drives, you'll have time for a guided walking safari with a Maasai warrior, a cultural visit to an authentic village, and an evening of stargazing from the open plain.",
+      "highlights": [
+        "Four game-drive days",
+        "Guided bush walk",
+        "Maasai village visit",
+        "Mara & Triangle zones",
+        "Full-board camp",
+        "Cultural experience"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival",
+          "desc": "Drive from Nairobi, afternoon game drive."
+        },
+        {
+          "day": "Day 2",
+          "title": "Full Game Day",
+          "desc": "All-day game drive exploring the central reserve."
+        },
+        {
+          "day": "Day 3",
+          "title": "Mara Triangle & Bush Walk",
+          "desc": "Morning bush walk with Maasai guide, afternoon in the Triangle."
+        },
+        {
+          "day": "Day 4",
+          "title": "Maasai Village & Game Drive",
+          "desc": "Morning village visit, afternoon game drive."
+        },
+        {
+          "day": "Day 5",
+          "title": "Final Drive & Return",
+          "desc": "Dawn drive, breakfast, return to Nairobi."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "All meals",
+        "Guide",
+        "Park fees",
+        "Bush walk",
+        "Village visit",
+        "Accommodation"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Gratuities",
+        "Balloon safari"
+      ],
+      "related_links": [
+        {
+          "label": "7-Day Safari",
+          "to": "/kenya-safaris/masai-mara/7-day"
+        },
+        {
+          "label": "Migration Safari",
+          "to": "/kenya-safaris/masai-mara/migration"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "masai-mara-7day",
+      "source_path": "/kenya-safaris/masai-mara/7-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "7-Day Masai Mara Safari",
+      "subtitle": "A full week in the world's greatest wildlife reserve — the ultimate Masai Mara immersion.",
+      "tag": "Masai Mara",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Leopard in Masai Mara tree",
+      "duration": "7 Days / 6 Nights",
+      "price_label": "From USD 1,595 pp",
+      "group_size": "2–4 guests",
+      "difficulty": "Easy",
+      "overview": "Seven days is enough time to see the Masai Mara in its entirety — the main reserve, the Mara Triangle, and the surrounding private conservancies where night drives and off-road driving are permitted. Your private guide builds a daily plan around your specific wildlife priorities.",
+      "highlights": [
+        "Six game-drive days",
+        "All reserve zones",
+        "Private guide",
+        "Multiple camps",
+        "Bush walks",
+        "Village visit",
+        "Night drives (conservancy)"
+      ],
+      "itinerary": [
+        {
+          "day": "Days 1–2",
+          "title": "Arrival & Central Mara",
+          "desc": "Drive from Nairobi. Two days exploring the main reserve."
+        },
+        {
+          "day": "Days 3–4",
+          "title": "Mara Triangle",
+          "desc": "Move to a camp in the Triangle for two days of less-crowded game viewing."
+        },
+        {
+          "day": "Days 5–6",
+          "title": "Private Conservancy",
+          "desc": "Stay at a conservancy camp — night drives, off-road tracking, walking safaris."
+        },
+        {
+          "day": "Day 7",
+          "title": "Departure",
+          "desc": "Final morning drive and return to Nairobi."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "All meals",
+        "Private guide",
+        "Park & conservancy fees",
+        "All activities",
+        "Full-board accommodation"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Gratuities",
+        "Balloon safari",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Luxury Version",
+          "to": "/kenya-safaris/masai-mara/luxury"
+        },
+        {
+          "label": "Fly-In Option",
+          "to": "/kenya-safaris/masai-mara/fly-in"
+        }
+      ],
+      "badge": "Immersive"
+    },
+    {
+      "slug": "masai-mara-nairobi",
+      "source_path": "/kenya-safaris/masai-mara/from-nairobi",
+      "content_type": "package",
+      "authored": true,
+      "title": "Masai Mara Safaris From Nairobi",
+      "subtitle": "All our Masai Mara packages depart from and return to Nairobi by road — a scenic 5–6 hour drive through the Great Rift Valley.",
+      "tag": "Masai Mara",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Drive to Masai Mara through Rift Valley",
+      "duration": "2–7 Days",
+      "price_label": "From USD 395 pp",
+      "group_size": "2–8 guests",
+      "difficulty": "Easy",
+      "overview": "All our safaris depart from Nairobi's main hotels in comfortable, pop-top 4×4 safari vehicles. The drive to the Masai Mara passes through the dramatic Great Rift Valley escarpment — a highlight in itself. We offer 2-day to 7-day departures on any date.",
+      "highlights": [
+        "Nairobi hotel pickup",
+        "Rift Valley scenic drive",
+        "Private 4×4 transport",
+        "KPSGA guide",
+        "All package lengths available"
+      ],
+      "itinerary": [
+        {
+          "day": "Morning",
+          "title": "Nairobi Hotel Pickup",
+          "desc": "Collected from your hotel at 07:00. Drive through the Rift Valley escarpment with optional stop at the viewpoint."
+        },
+        {
+          "day": "Midday",
+          "title": "Arrive Masai Mara",
+          "desc": "Arrive at camp around noon. Lunch and settle in."
+        },
+        {
+          "day": "Afternoon",
+          "title": "First Game Drive",
+          "desc": "Afternoon drive 15:00–18:30 before returning to camp for dinner."
+        }
+      ],
+      "includes": [
+        "Hotel pickup & drop-off",
+        "Pop-top safari 4×4",
+        "Professional guide-driver",
+        "Fuel & park fees",
+        "Accommodation & meals per package"
+      ],
+      "excludes": [
+        "Airport transfers (separate)",
+        "Flights",
+        "Insurance",
+        "Tips"
+      ],
+      "related_links": [
+        {
+          "label": "3-Day Masai Mara",
+          "to": "/kenya-safaris/masai-mara/3-day"
+        },
+        {
+          "label": "Fly-In Alternative",
+          "to": "/kenya-safaris/masai-mara/fly-in"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "masai-mara-flyin",
+      "source_path": "/kenya-safaris/masai-mara/fly-in",
+      "content_type": "package",
+      "authored": true,
+      "title": "Masai Mara Fly-In Safaris",
+      "subtitle": "Skip the road and fly into the heart of the Mara — 45 minutes from Nairobi's Wilson Airport to a bush airstrip.",
+      "tag": "Masai Mara",
+      "image": "https://images.unsplash.com/photo-1520116468816-95b69f847357?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Small aircraft landing in Masai Mara",
+      "duration": "3–5 Days",
+      "price_label": "From USD 1,195 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "Flying into the Mara is the premium choice — it maximises your time in the reserve and removes the long road journey entirely. Scheduled light-aircraft flights operate from Wilson Airport (Nairobi) to multiple Mara airstrips daily.",
+      "highlights": [
+        "Charter flight from Wilson Airport",
+        "Aerial Rift Valley views",
+        "Bush airstrip landing",
+        "Premium camps",
+        "More game-drive time"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Wilson Airport → Mara Airstrip",
+          "desc": "Morning flight from Nairobi (45 min). Met at the airstrip by your guide. Afternoon game drive."
+        },
+        {
+          "day": "Days 2–3",
+          "title": "Full Game Days",
+          "desc": "Dawn and dusk game drives with the reserve largely to yourself in the early hours."
+        },
+        {
+          "day": "Day 4",
+          "title": "Return Flight",
+          "desc": "Morning drive, then fly back to Nairobi."
+        }
+      ],
+      "includes": [
+        "Return charter flights",
+        "Airport–airstrip transfers",
+        "All meals",
+        "Park fees",
+        "Guide",
+        "Premium accommodation"
+      ],
+      "excludes": [
+        "International flights",
+        "Insurance",
+        "Gratuities",
+        "Balloon safari",
+        "Excess baggage (soft bags only)"
+      ],
+      "related_links": [
+        {
+          "label": "Luxury Masai Mara",
+          "to": "/kenya-safaris/masai-mara/luxury"
+        },
+        {
+          "label": "Drive Option",
+          "to": "/kenya-safaris/masai-mara/from-nairobi"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "masai-mara-migration",
+      "source_path": "/kenya-safaris/masai-mara/migration",
+      "content_type": "package",
+      "authored": true,
+      "title": "Masai Mara Migration Safaris",
+      "subtitle": "A million wildebeest. Crocodile-filled rivers. The world's greatest wildlife spectacle — timed to perfection.",
+      "tag": "Great Migration · Jul–Oct",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Wildebeest crossing the Mara River",
+      "duration": "5 Days / 4 Nights",
+      "price_label": "From USD 1,295 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "Between July and October each year, over 1.5 million wildebeest — along with 200,000 zebra and 500,000 gazelle — make the treacherous Mara River crossing into Kenya. The crossings happen multiple times a day at several well-known points. Our guides know the river intimately and will position you correctly for the crossing, often just metres from the action.",
+      "highlights": [
+        "Peak season: Jul–Oct",
+        "River crossing positions",
+        "Predator activity at peak",
+        "Full-board riverside camp",
+        "Expert migration guide"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Drive to Mara",
+          "desc": "Depart Nairobi early. Afternoon spent scouting crossing points with guide."
+        },
+        {
+          "day": "Days 2–3",
+          "title": "Migration Focus",
+          "desc": "Dawn to dusk at the river crossings. Guide monitors multiple sites via radio network."
+        },
+        {
+          "day": "Day 4",
+          "title": "Reserve Exploration",
+          "desc": "Explore the broader reserve — predators follow the herds."
+        },
+        {
+          "day": "Day 5",
+          "title": "Return",
+          "desc": "Final morning at the river, then return to Nairobi."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "All meals",
+        "Specialist migration guide",
+        "Park fees",
+        "Riverside camp accommodation"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Gratuities",
+        "Balloon safari"
+      ],
+      "related_links": [
+        {
+          "label": "5-Day Standard Mara",
+          "to": "/kenya-safaris/masai-mara/5-day"
+        },
+        {
+          "label": "Mara Accommodation",
+          "to": "/kenya-safaris/accommodation/masai-mara"
+        }
+      ],
+      "badge": "Seasonal"
+    },
+    {
+      "slug": "masai-mara-luxury",
+      "source_path": "/kenya-safaris/masai-mara/luxury",
+      "content_type": "package",
+      "authored": true,
+      "title": "Luxury Masai Mara Safaris",
+      "subtitle": "Five-star tented camps, private game vehicles, butler service, and sundowner cocktails on the open plain.",
+      "tag": "Luxury · Premium Camps",
+      "image": "https://images.unsplash.com/photo-1612178537253-bccd437b730e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Luxury tented camp in Masai Mara",
+      "duration": "4 Days / 3 Nights",
+      "price_label": "From USD 2,450 pp",
+      "group_size": "2–4 guests",
+      "difficulty": "Easy",
+      "overview": "Kenya's luxury safari market has no equal — the country invented the concept of the classic tented camp, and the finest properties in the Masai Mara offer an experience that combines deep wilderness with exceptional hospitality. Think Egyptian cotton, candlelit dinners under acacia trees, and a private guide who dedicates the vehicle entirely to your party.",
+      "highlights": [
+        "5-star tented lodges",
+        "Private game vehicle",
+        "Butler & concierge",
+        "Gourmet bush dining",
+        "Spa treatments",
+        "All-inclusive"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Fly In from Nairobi",
+          "desc": "Charter flight to Mara. Champagne welcome, afternoon game drive in your private vehicle."
+        },
+        {
+          "day": "Days 2–3",
+          "title": "Private Game Drives",
+          "desc": "Unlimited game driving on your own schedule — no fixed departure times."
+        },
+        {
+          "day": "Day 4",
+          "title": "Final Drive & Return",
+          "desc": "Dawn drive, breakfast in the bush, return flight to Nairobi."
+        }
+      ],
+      "includes": [
+        "Return charter flights",
+        "All-inclusive luxury camp",
+        "Private vehicle & guide",
+        "All meals, drinks & minibar",
+        "Spa access",
+        "Laundry service"
+      ],
+      "excludes": [
+        "International flights",
+        "Insurance",
+        "Gratuities",
+        "Personal shopping"
+      ],
+      "related_links": [
+        {
+          "label": "Luxury Mara Lodges",
+          "to": "/kenya-safaris/accommodation/masai-mara/luxury"
+        },
+        {
+          "label": "Luxury Kenya Safaris",
+          "to": "/kenya-safaris/types/luxury"
+        }
+      ],
+      "badge": "Premium"
+    },
+    {
+      "slug": "masai-mara-reserve",
+      "source_path": "/kenya-safaris/masai-mara/national-reserve",
+      "content_type": "park-guide",
+      "authored": true,
+      "title": "Masai Mara National Reserve",
+      "subtitle": "Everything you need to know about Kenya's most celebrated wildlife reserve — wildlife, best time to visit, fees, and travel tips.",
+      "tag": "Park Guide",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Panoramic view of Masai Mara savanna",
+      "duration": "—",
+      "price_label": "—",
+      "group_size": "—",
+      "difficulty": "—",
+      "overview": "The Masai Mara National Reserve is managed by the Narok County Council and covers 1,510 km² of the larger 25,000 km² Mara–Serengeti ecosystem. The reserve is bordered by the Mara Triangle (managed by the Mara Conservancy) and several private conservancies where additional activities — night drives, walking safaris, off-road driving — are permitted.",
+      "highlights": [
+        "1,510 km² of savanna",
+        "Big Five resident year-round",
+        "Great Migration Jul–Oct",
+        "KPSGA-certified guides required",
+        "Multiple airstrips",
+        "Private conservancies adjacent"
+      ],
+      "itinerary": [
+        {
+          "day": "Wildlife",
+          "title": "What You'll See",
+          "desc": "Lion, leopard, cheetah, elephant, buffalo, giraffe, hippo, crocodile, 470 bird species, and seasonal wildebeest migration."
+        },
+        {
+          "day": "Best Time",
+          "title": "When to Visit",
+          "desc": "Year-round destination. July–October for the Great Migration. January–March for calving season in the Serengeti. Dry seasons (Jun–Oct, Dec–Mar) offer better game viewing."
+        },
+        {
+          "day": "Getting There",
+          "title": "Access",
+          "desc": "5–6 hour drive from Nairobi via the A104 and Narok Road, or 45-minute charter flight from Wilson Airport to Keekorok, Musiara, or Ol Kiombo airstrips."
+        }
+      ],
+      "includes": [
+        "Park fees (2026): USD 80 pp/day for non-residents",
+        "Vehicle fee: USD 30/day",
+        "Mara Triangle separate admission",
+        "Conservancy fees vary"
+      ],
+      "excludes": [
+        "Accommodation",
+        "Transport",
+        "Guide fees",
+        "Activities"
+      ],
+      "related_links": [
+        {
+          "label": "Book a Masai Mara Safari",
+          "to": "/kenya-safaris/masai-mara/3-day"
+        },
+        {
+          "label": "Mara Accommodation",
+          "to": "/kenya-safaris/accommodation/masai-mara"
+        },
+        {
+          "label": "Safari Cost Guide",
+          "to": "/kenya-safaris/guides/masai-mara-cost"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "amboseli-day",
+      "source_path": "/kenya-safaris/amboseli/day",
+      "content_type": "package",
+      "authored": true,
+      "title": "Amboseli Day Safari",
+      "subtitle": "A full day at Amboseli National Park — elephant herds, Kilimanjaro views, and prolific birdlife in a single long-day excursion from Nairobi.",
+      "tag": "Amboseli",
+      "image": "https://images.unsplash.com/photo-1612178537253-bccd437b730e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Elephants at Amboseli with Kilimanjaro",
+      "duration": "Full Day",
+      "price_label": "From USD 250 pp",
+      "group_size": "2–8 guests",
+      "difficulty": "Easy",
+      "overview": "Amboseli's open swamp ecosystem supports one of Africa's largest free-roaming elephant populations. On a clear day — most mornings — Kilimanjaro towers over the park in extraordinary photographic fashion.",
+      "highlights": [
+        "Elephant herds",
+        "Kilimanjaro backdrop",
+        "Birdwatching",
+        "Observation Hill",
+        "Nairobi same-day return"
+      ],
+      "itinerary": [
+        {
+          "day": "Depart",
+          "title": "Nairobi → Amboseli",
+          "desc": "Early departure at 05:30 to arrive for peak morning wildlife activity."
+        },
+        {
+          "day": "Full Day",
+          "title": "Game Drives",
+          "desc": "Morning and afternoon game drives around the Enkongo Narok swamp and Observation Hill."
+        },
+        {
+          "day": "Evening",
+          "title": "Return to Nairobi",
+          "desc": "Depart by 16:00, back in Nairobi by 20:00."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "Park fees",
+        "Lunch",
+        "Guide",
+        "Water"
+      ],
+      "excludes": [
+        "Dinner",
+        "Insurance",
+        "Tips",
+        "Personal items"
+      ],
+      "related_links": [
+        {
+          "label": "2-Day Amboseli",
+          "to": "/kenya-safaris/amboseli/2-day"
+        },
+        {
+          "label": "3-Day Amboseli",
+          "to": "/kenya-safaris/amboseli/3-day"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "amboseli-2day",
+      "source_path": "/kenya-safaris/amboseli/2-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "2-Day Amboseli Safari",
+      "subtitle": "Overnight at Amboseli — morning and evening game drives with Kilimanjaro lighting at its most dramatic.",
+      "tag": "Amboseli",
+      "image": "https://images.unsplash.com/photo-1612178537253-bccd437b730e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Elephants silhouetted against Kilimanjaro",
+      "duration": "2 Days / 1 Night",
+      "price_label": "From USD 445 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "One night in Amboseli allows you to experience the park in its best light — literally. Dawn breaks over Kilimanjaro in extraordinary clarity and the elephants move through the swamp in spectacular fashion.",
+      "highlights": [
+        "Overnight in the park",
+        "Sunset drive",
+        "Dawn light on Kilimanjaro",
+        "Elephant herds",
+        "Maasai cultural option"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Nairobi → Amboseli",
+          "desc": "Drive from Nairobi (3.5 hours). Arrive for afternoon game drive and sunset."
+        },
+        {
+          "day": "Day 2",
+          "title": "Morning Drive → Return",
+          "desc": "Early 06:00 drive for Kilimanjaro at dawn. Breakfast, then return to Nairobi."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "Park fees",
+        "All meals",
+        "Lodge accommodation",
+        "Guide"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Tips"
+      ],
+      "related_links": [
+        {
+          "label": "3-Day Amboseli",
+          "to": "/kenya-safaris/amboseli/3-day"
+        },
+        {
+          "label": "Amboseli Park Guide",
+          "to": "/kenya-safaris/amboseli/national-park"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "amboseli-3day",
+      "source_path": "/kenya-safaris/amboseli/3-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "3-Day Amboseli Safari",
+      "subtitle": "Two full game-drive days in the shadow of Kilimanjaro — Africa's most photogenic wildlife setting.",
+      "tag": "Amboseli",
+      "image": "https://images.unsplash.com/photo-1612178537253-bccd437b730e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Elephant family in Amboseli",
+      "duration": "3 Days / 2 Nights",
+      "price_label": "From USD 695 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "Three days at Amboseli gives you time to properly explore the park's five distinct habitat zones — from open plains to yellow-fever acacia woodland — and spend real time with the elephant families that Cynthia Moss studied for over 40 years.",
+      "highlights": [
+        "Two game-drive days",
+        "Big Five potential",
+        "Kilimanjaro views",
+        "Swamp walks (guided)",
+        "Maasai community visit"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Arrival",
+          "desc": "Nairobi to Amboseli. Afternoon drive and sundowners."
+        },
+        {
+          "day": "Day 2",
+          "title": "Full Park Day",
+          "desc": "Full day exploring all zones. Optional guided swamp walk."
+        },
+        {
+          "day": "Day 3",
+          "title": "Return",
+          "desc": "Dawn drive with Kilimanjaro, then return to Nairobi."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "Park fees",
+        "All meals",
+        "Accommodation",
+        "Guide"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Tips",
+        "Maasai village entry"
+      ],
+      "related_links": [
+        {
+          "label": "Amboseli Park Guide",
+          "to": "/kenya-safaris/amboseli/national-park"
+        },
+        {
+          "label": "Amboseli Lodges",
+          "to": "/kenya-safaris/accommodation/amboseli"
+        }
+      ],
+      "badge": "Most Popular"
+    },
+    {
+      "slug": "amboseli-park",
+      "source_path": "/kenya-safaris/amboseli/national-park",
+      "content_type": "park-guide",
+      "authored": true,
+      "title": "Amboseli National Park",
+      "subtitle": "Kenya's most photographed landscape — free-roaming elephant herds, five distinct ecosystems, and Kilimanjaro rising 5,895m on the southern horizon.",
+      "tag": "Park Guide",
+      "image": "https://images.unsplash.com/photo-1612178537253-bccd437b730e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Amboseli National Park panorama",
+      "duration": "—",
+      "price_label": "Park fee: USD 60 pp/day",
+      "group_size": "—",
+      "difficulty": "—",
+      "overview": "Amboseli National Park lies at the foot of Mount Kilimanjaro on the Tanzanian border. Its name derives from the Maasai word \"empusel\", meaning salty, dusty place — a reference to the ancient lakebed that forms the park's centre. The park is most famous for its large elephant herds, studied by the Amboseli Elephant Research Project since 1972.",
+      "highlights": [
+        "392 km²",
+        "World's best elephant viewing",
+        "Kilimanjaro backdrop",
+        "Big Five present",
+        "400+ bird species",
+        "3.5 hrs from Nairobi"
+      ],
+      "itinerary": [
+        {
+          "day": "Dry Season",
+          "title": "Oct–Feb",
+          "desc": "Clearest Kilimanjaro views. Excellent game viewing around the swamps as wildlife concentrates."
+        },
+        {
+          "day": "Wet Season",
+          "title": "Mar–May",
+          "desc": "Lush and green. Fewer visitors. Some tracks impassable. Bird diversity peaks."
+        }
+      ],
+      "includes": [
+        "Park entrance information only"
+      ],
+      "excludes": [
+        "Safari packages listed separately above"
+      ],
+      "related_links": [
+        {
+          "label": "Book Amboseli Safari",
+          "to": "/kenya-safaris/amboseli/3-day"
+        },
+        {
+          "label": "Amboseli Lodges",
+          "to": "/kenya-safaris/accommodation/amboseli"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "tsavo-2day",
+      "source_path": "/kenya-safaris/tsavo/2-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "2-Day Tsavo Safari",
+      "subtitle": "The largest protected wilderness in Kenya — red elephants, dramatic lava flows, and East Africa's greatest baobab trees.",
+      "tag": "Tsavo",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Tsavo landscape with red elephants",
+      "duration": "2 Days / 1 Night",
+      "price_label": "From USD 375 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "Tsavo is Kenya's largest and most underrated national park — a vast wilderness that sees a fraction of the Mara's visitor numbers but offers equally dramatic wildlife encounters. The red elephants, stained by Tsavo's iron-rich soil, are legendary.",
+      "highlights": [
+        "Red elephants",
+        "Tsavo East & West option",
+        "Baobab forests",
+        "Lugard Falls",
+        "Mzima Springs"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Nairobi → Tsavo",
+          "desc": "Drive south (4 hours). Afternoon drive — look for the famous red elephant herds."
+        },
+        {
+          "day": "Day 2",
+          "title": "Full Morning Drive → Return",
+          "desc": "Dawn game drive, Lugard Falls visit, then return to Nairobi."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "Park fees",
+        "All meals",
+        "Accommodation",
+        "Guide"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Tips"
+      ],
+      "related_links": [
+        {
+          "label": "3-Day Tsavo",
+          "to": "/kenya-safaris/tsavo/3-day"
+        },
+        {
+          "label": "Tsavo East",
+          "to": "/kenya-safaris/tsavo/east"
+        },
+        {
+          "label": "Tsavo West",
+          "to": "/kenya-safaris/tsavo/west"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "tsavo-3day",
+      "source_path": "/kenya-safaris/tsavo/3-day",
+      "content_type": "package",
+      "authored": true,
+      "title": "3-Day Tsavo Safari",
+      "subtitle": "Two full days in Kenya's largest wilderness — split between Tsavo East and Tsavo West for maximum variety.",
+      "tag": "Tsavo",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Elephant herd in Tsavo",
+      "duration": "3 Days / 2 Nights",
+      "price_label": "From USD 575 pp",
+      "group_size": "2–6 guests",
+      "difficulty": "Easy",
+      "overview": "Splitting three days between Tsavo East and Tsavo West gives you the best of both — East's open plains and massive elephant herds, and West's dramatic volcanic scenery, hippo pools, and the crystal-clear Mzima Springs.",
+      "highlights": [
+        "Tsavo East & West",
+        "Red elephants",
+        "Mzima Springs",
+        "Chaimu Crater",
+        "Aruba Dam"
+      ],
+      "itinerary": [
+        {
+          "day": "Day 1",
+          "title": "Tsavo East",
+          "desc": "Drive from Nairobi to Tsavo East. Afternoon game drive around Aruba Dam."
+        },
+        {
+          "day": "Day 2",
+          "title": "Tsavo West Transfer",
+          "desc": "Morning drive in East, then cross to West. Mzima Springs visit and afternoon drive."
+        },
+        {
+          "day": "Day 3",
+          "title": "Chaimu Crater → Nairobi",
+          "desc": "Morning at Chaimu Crater and Roaring Rocks viewpoint. Return to Nairobi."
+        }
+      ],
+      "includes": [
+        "Transport",
+        "Park fees",
+        "All meals",
+        "Accommodation",
+        "Guide"
+      ],
+      "excludes": [
+        "Flights",
+        "Insurance",
+        "Tips"
+      ],
+      "related_links": [
+        {
+          "label": "Tsavo East Park",
+          "to": "/kenya-safaris/tsavo/east"
+        },
+        {
+          "label": "Tsavo West Park",
+          "to": "/kenya-safaris/tsavo/west"
+        }
+      ],
+      "badge": "Best Value"
+    },
+    {
+      "slug": "tsavo-east",
+      "source_path": "/kenya-safaris/tsavo/east",
+      "content_type": "park-guide",
+      "authored": true,
+      "title": "Tsavo East National Park",
+      "subtitle": "Kenya's largest park — a vast, semi-arid wilderness of open plains, baobab forests, and the Galana River teeming with hippos and crocodiles.",
+      "tag": "Park Guide",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Tsavo East landscape with red dust",
+      "duration": "—",
+      "price_label": "Park fee: USD 52 pp/day",
+      "group_size": "—",
+      "difficulty": "—",
+      "overview": "Tsavo East National Park is the larger of the two Tsavo parks. Its flat, open landscape of red-tinged plains and scrubland makes wildlife easy to spot. The Galana River is a lifeline for hippos, crocodiles, and elephant — particularly during the dry season when the river becomes the only water source for miles.",
+      "highlights": [
+        "13,747 km²",
+        "Largest national park in Kenya",
+        "Red elephant herds",
+        "Lugard Falls",
+        "Aruba Dam",
+        "Galana River"
+      ],
+      "itinerary": [
+        {
+          "day": "Highlights",
+          "title": "Must-See",
+          "desc": "Lugard Falls, Aruba Dam, Galana River drive, and the red elephant herds near Voi Safari Lodge."
+        }
+      ],
+      "includes": [
+        "Park information only"
+      ],
+      "excludes": [
+        "Safari packages listed separately"
+      ],
+      "related_links": [
+        {
+          "label": "Book 2-Day Tsavo",
+          "to": "/kenya-safaris/tsavo/2-day"
+        },
+        {
+          "label": "Book 3-Day Tsavo",
+          "to": "/kenya-safaris/tsavo/3-day"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "tsavo-west",
+      "source_path": "/kenya-safaris/tsavo/west",
+      "content_type": "park-guide",
+      "authored": true,
+      "title": "Tsavo West National Park",
+      "subtitle": "Dramatic volcanic scenery, Mzima Springs, and extraordinary diversity in a greener, more varied landscape than its eastern counterpart.",
+      "tag": "Park Guide",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Mzima Springs hippos in Tsavo West",
+      "duration": "—",
+      "price_label": "Park fee: USD 52 pp/day",
+      "group_size": "—",
+      "difficulty": "—",
+      "overview": "Tsavo West is the more scenically dramatic of the two parks. Volcanic craters, lava fields, and green hills contrast dramatically with the red-dust plains of East. The underwater observatory at Mzima Springs lets you watch hippos and fish from below the waterline.",
+      "highlights": [
+        "9,065 km²",
+        "Mzima Springs",
+        "Chaimu Crater",
+        "Roaring Rocks",
+        "Shetani Lava Flows",
+        "Black rhino sanctuary"
+      ],
+      "itinerary": [
+        {
+          "day": "Highlights",
+          "title": "Must-See",
+          "desc": "Mzima Springs (underwater observatory), Chaimu Crater walk, Roaring Rocks viewpoint, Shetani Lava Flow."
+        }
+      ],
+      "includes": [
+        "Park information only"
+      ],
+      "excludes": [
+        "Safari packages listed separately"
+      ],
+      "related_links": [
+        {
+          "label": "Book 2-Day Tsavo",
+          "to": "/kenya-safaris/tsavo/2-day"
+        },
+        {
+          "label": "Book 3-Day Tsavo",
+          "to": "/kenya-safaris/tsavo/3-day"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "group-mara-2day",
+      "source_path": "/kenya-safaris/group-safaris/masai-mara/2-day",
+      "content_type": "package",
+      "authored": false,
+      "title": "2-Day Masai Mara Group Safari",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for 2-Day Masai Mara Group Safari.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "2-Day Masai Mara Group Safari",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your 2-Day Masai Mara Group Safari requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "group-mara-3day",
+      "source_path": "/kenya-safaris/group-safaris/masai-mara/3-day",
+      "content_type": "package",
+      "authored": false,
+      "title": "3-Day Masai Mara Group Safari",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for 3-Day Masai Mara Group Safari.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "3-Day Masai Mara Group Safari",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your 3-Day Masai Mara Group Safari requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": "Most Popular"
+    },
+    {
+      "slug": "group-mara-4day",
+      "source_path": "/kenya-safaris/group-safaris/masai-mara/4-day",
+      "content_type": "package",
+      "authored": false,
+      "title": "4-Day Masai Mara Group Safari",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for 4-Day Masai Mara Group Safari.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "4-Day Masai Mara Group Safari",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your 4-Day Masai Mara Group Safari requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "group-mara-5day",
+      "source_path": "/kenya-safaris/group-safaris/masai-mara/5-day",
+      "content_type": "package",
+      "authored": false,
+      "title": "5-Day Masai Mara Group Safari",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for 5-Day Masai Mara Group Safari.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "5-Day Masai Mara Group Safari",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your 5-Day Masai Mara Group Safari requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "group-mara-7day",
+      "source_path": "/kenya-safaris/group-safaris/masai-mara/7-day",
+      "content_type": "package",
+      "authored": false,
+      "title": "7-Day Masai Mara Group Safari",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for 7-Day Masai Mara Group Safari.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "7-Day Masai Mara Group Safari",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your 7-Day Masai Mara Group Safari requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": "Best Value"
+    },
+    {
+      "slug": "all-kenya",
+      "source_path": "/kenya-safaris/packages/all-kenya",
+      "content_type": "package",
+      "authored": false,
+      "title": "All Kenya Safari Packages",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for All Kenya Safari Packages.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "All Kenya Safari Packages",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your All Kenya Safari Packages requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "multi-destination",
+      "source_path": "/kenya-safaris/packages/multi-destination",
+      "content_type": "package",
+      "authored": false,
+      "title": "Multi-Destination Kenya Safaris",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Multi-Destination Kenya Safaris.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Multi-Destination Kenya Safaris",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Multi-Destination Kenya Safaris requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "type-family",
+      "source_path": "/kenya-safaris/types/family",
+      "content_type": "safari-type",
+      "authored": false,
+      "title": "Family Kenya Safaris",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Family Kenya Safaris.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Family Kenya Safaris",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Family Kenya Safaris requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "type-flyin",
+      "source_path": "/kenya-safaris/types/fly-in",
+      "content_type": "safari-type",
+      "authored": false,
+      "title": "Fly-In Kenya Safaris",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Fly-In Kenya Safaris.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Fly-In Kenya Safaris",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Fly-In Kenya Safaris requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "type-honeymoon",
+      "source_path": "/kenya-safaris/types/honeymoon",
+      "content_type": "safari-type",
+      "authored": false,
+      "title": "Kenya Honeymoon Safaris",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Kenya Honeymoon Safaris.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Kenya Honeymoon Safaris",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Kenya Honeymoon Safaris requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "type-luxury",
+      "source_path": "/kenya-safaris/types/luxury",
+      "content_type": "safari-type",
+      "authored": false,
+      "title": "Luxury Kenya Safaris",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Luxury Kenya Safaris.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Luxury Kenya Safaris",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Luxury Kenya Safaris requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "type-photography",
+      "source_path": "/kenya-safaris/types/photography",
+      "content_type": "safari-type",
+      "authored": false,
+      "title": "Photography Safaris Kenya",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Photography Safaris Kenya.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Photography Safaris Kenya",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Photography Safaris Kenya requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "type-beach",
+      "source_path": "/kenya-safaris/types/beach",
+      "content_type": "safari-type",
+      "authored": false,
+      "title": "Kenya Safari & Beach Packages",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Kenya Safari & Beach Packages.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Kenya Safari & Beach Packages",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Kenya Safari & Beach Packages requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "type-private",
+      "source_path": "/kenya-safaris/types/private",
+      "content_type": "safari-type",
+      "authored": false,
+      "title": "Private Safari Tours Kenya",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Private Safari Tours Kenya.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Private Safari Tours Kenya",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Private Safari Tours Kenya requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "activity-gamedrives",
+      "source_path": "/kenya-safaris/activities/game-drives",
+      "content_type": "activity",
+      "authored": false,
+      "title": "Game Drives in Kenya",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Game Drives in Kenya.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Game Drives in Kenya",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Game Drives in Kenya requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "activity-mara-gamedrives",
+      "source_path": "/kenya-safaris/activities/game-drives/masai-mara",
+      "content_type": "activity",
+      "authored": false,
+      "title": "Masai Mara Game Drives",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Masai Mara Game Drives.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Masai Mara Game Drives",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Masai Mara Game Drives requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "activity-walking",
+      "source_path": "/kenya-safaris/activities/walking-safaris",
+      "content_type": "activity",
+      "authored": false,
+      "title": "Walking Safaris Kenya",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Walking Safaris Kenya.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Walking Safaris Kenya",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Walking Safaris Kenya requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "activity-balloon",
+      "source_path": "/kenya-safaris/activities/balloon-safaris",
+      "content_type": "activity",
+      "authored": false,
+      "title": "Hot-Air Balloon Safaris",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Hot-Air Balloon Safaris.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Hot-Air Balloon Safaris",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Hot-Air Balloon Safaris requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "activity-mara-balloon",
+      "source_path": "/kenya-safaris/activities/balloon-safaris/masai-mara",
+      "content_type": "activity",
+      "authored": false,
+      "title": "Masai Mara Balloon Safari",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Masai Mara Balloon Safari.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Masai Mara Balloon Safari",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Masai Mara Balloon Safari requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "activity-birding",
+      "source_path": "/kenya-safaris/activities/birdwatching",
+      "content_type": "activity",
+      "authored": false,
+      "title": "Birdwatching in Kenya",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Birdwatching in Kenya.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Birdwatching in Kenya",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Birdwatching in Kenya requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "activity-trekking",
+      "source_path": "/kenya-safaris/activities/mountain-trekking",
+      "content_type": "activity",
+      "authored": false,
+      "title": "Mountain Trekking Kenya",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Mountain Trekking Kenya.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Mountain Trekking Kenya",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Mountain Trekking Kenya requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "accom-mara",
+      "source_path": "/kenya-safaris/accommodation/masai-mara",
+      "content_type": "accommodation",
+      "authored": false,
+      "title": "Masai Mara Accommodation",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Masai Mara Accommodation.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Masai Mara Accommodation",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Masai Mara Accommodation requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "accom-mara-luxury",
+      "source_path": "/kenya-safaris/accommodation/masai-mara/luxury",
+      "content_type": "accommodation",
+      "authored": false,
+      "title": "Luxury Masai Mara Lodges & Camps",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Luxury Masai Mara Lodges & Camps.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Luxury Masai Mara Lodges & Camps",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Luxury Masai Mara Lodges & Camps requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "accom-amboseli",
+      "source_path": "/kenya-safaris/accommodation/amboseli",
+      "content_type": "accommodation",
+      "authored": false,
+      "title": "Amboseli Lodges",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Amboseli Lodges.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Amboseli Lodges",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Amboseli Lodges requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "accom-all",
+      "source_path": "/kenya-safaris/accommodation/all-lodges",
+      "content_type": "accommodation",
+      "authored": false,
+      "title": "All Kenya Lodges",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for All Kenya Lodges.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "All Kenya Lodges",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your All Kenya Lodges requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "guide-cost",
+      "source_path": "/kenya-safaris/guides/kenya-safari-cost",
+      "content_type": "guide",
+      "authored": false,
+      "title": "Kenya Safari Cost Guide",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Kenya Safari Cost Guide.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Kenya Safari Cost Guide",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Kenya Safari Cost Guide requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "guide-mara-cost",
+      "source_path": "/kenya-safaris/guides/masai-mara-cost",
+      "content_type": "guide",
+      "authored": false,
+      "title": "Masai Mara Safari Cost",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Masai Mara Safari Cost.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Masai Mara Safari Cost",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Masai Mara Safari Cost requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "guide-flights",
+      "source_path": "/kenya-safaris/guides/nairobi-mara-flights",
+      "content_type": "guide",
+      "authored": false,
+      "title": "Nairobi to Masai Mara Flights",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Nairobi to Masai Mara Flights.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Nairobi to Masai Mara Flights",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Nairobi to Masai Mara Flights requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "guide-accom",
+      "source_path": "/kenya-safaris/guides/accommodation",
+      "content_type": "guide",
+      "authored": false,
+      "title": "Kenya Safari Accommodation Guide",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Kenya Safari Accommodation Guide.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Kenya Safari Accommodation Guide",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Kenya Safari Accommodation Guide requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    },
+    {
+      "slug": "guide-naivasha",
+      "source_path": "/kenya-safaris/guides/naivasha-hellsgate",
+      "content_type": "guide",
+      "authored": false,
+      "title": "Lake Naivasha & Hell's Gate Guide",
+      "tag": "Kenya",
+      "subtitle": "Comprehensive guide and booking information for Lake Naivasha & Hell's Gate Guide.",
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=1800&h=900&fit=crop&auto=format",
+      "image_alt": "Lake Naivasha & Hell's Gate Guide",
+      "duration": "Varies",
+      "price_label": "On request",
+      "group_size": "Flexible",
+      "difficulty": "Easy",
+      "highlights": [
+        "Tailor-made itinerary",
+        "Professional guides",
+        "All inclusive options",
+        "Year-round departures"
+      ],
+      "overview": "Get in touch with our team to discuss your Lake Naivasha & Hell's Gate Guide requirements. We'll design a bespoke itinerary around your dates, budget, and interests.",
+      "itinerary": [
+        {
+          "day": "Step 1",
+          "title": "Contact Us",
+          "desc": "Fill in our trip planner or call us directly on +254 700 000 000."
+        },
+        {
+          "day": "Step 2",
+          "title": "Itinerary Design",
+          "desc": "Our team designs a personalised quote within 24 hours."
+        },
+        {
+          "day": "Step 3",
+          "title": "Book & Travel",
+          "desc": "Confirm your booking with a deposit and we handle everything else."
+        }
+      ],
+      "includes": [
+        "All items tailored to your package"
+      ],
+      "excludes": [
+        "International flights",
+        "Travel insurance",
+        "Personal spending"
+      ],
+      "related_links": [
+        {
+          "label": "Plan My Trip",
+          "to": "/plan-my-trip"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact"
+        }
+      ],
+      "badge": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the best time to visit the Masai Mara?",
+      "answer": "The Mara is excellent year-round, but the Great Migration river crossings occur July–October. January–March offers the calving season on the Serengeti side of the ecosystem.",
+      "order": 1
+    },
+    {
+      "question": "Do I need a visa to visit Kenya?",
+      "answer": "Most nationalities require an eVisa, obtained online at evisa.go.ke before travel. Processing takes 3–5 business days. We can advise on current requirements for your nationality.",
+      "order": 2
+    },
+    {
+      "question": "What vaccinations do I need for Kenya?",
+      "answer": "Yellow fever vaccination is required if arriving from a yellow-fever endemic country. We recommend consulting a travel health clinic. Malaria prophylaxis is advised for safari areas.",
+      "order": 3
+    },
+    {
+      "question": "How do I get from Nairobi to the Masai Mara?",
+      "answer": "Options are a 5–6 hour road journey by safari vehicle or a 45-minute charter flight from Wilson Airport. We arrange both as part of your safari package.",
+      "order": 4
+    },
+    {
+      "question": "Can you accommodate dietary requirements?",
+      "answer": "Yes — all major camps cater for vegetarian, vegan, gluten-free, and halal requirements with advance notice. Please inform us when booking.",
+      "order": 5
+    },
+    {
+      "question": "What is your cancellation policy?",
+      "answer": "Full refund up to 60 days before travel. 50% refund 30–59 days. Within 30 days, the deposit is non-refundable. We strongly recommend comprehensive travel insurance.",
+      "order": 6
+    },
+    {
+      "question": "Is Kenya safe for tourists?",
+      "answer": "Kenya's national parks and Nairobi's tourist areas are very safe. We monitor travel advisories daily and have protocols for all scenarios. We have operated for 15 years without a security incident involving guests.",
+      "order": 7
+    },
+    {
+      "question": "Do you offer private safaris?",
+      "answer": "Yes — all our safaris can be operated privately, with a dedicated vehicle and guide for your party alone. Group departures are also available at lower per-person rates.",
+      "order": 8
+    }
+  ]
+}
