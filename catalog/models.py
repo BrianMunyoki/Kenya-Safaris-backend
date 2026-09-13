@@ -1,6 +1,19 @@
 from django.db import models
+from django_prose_editor.fields import ProseEditorField
 
-
+EDITOR_EXTENSIONS = {
+    "Bold": True,
+    "Italic": True,
+    "Heading": {"levels": [2, 3, 4]},
+    "BulletList": True,
+    "OrderedList": True,
+    "ListItem": True,
+    "Blockquote": True,
+    "Link": {
+        "protocols": ["http", "https", "mailto"],
+    },
+    "HorizontalRule": True,
+}
 class Destination(models.Model):
     """One entry on the Destinations hub (Tanzania, Botswana, Rwanda...)."""
 
@@ -29,7 +42,18 @@ class SafariPackage(models.Model):
     """Safari package or safari information page."""
 
     title = models.CharField(max_length=160)
+    
+    seo_title = models.CharField(
+        max_length=70,
+        blank=True,
+        help_text="SEO title shown in search results. Aim for roughly 50-60 characters.",
+    )
 
+    meta_description = models.CharField(
+        max_length=170,
+        blank=True,
+        help_text="SEO description shown in search results. Aim for roughly 140-160 characters.",
+    )   
     slug = models.SlugField(
         max_length=180,
         unique=True,
@@ -81,8 +105,11 @@ class SafariPackage(models.Model):
         blank=True
     )
 
-    overview = models.TextField(
-        blank=True
+    overview = ProseEditorField(
+        blank=True,
+        extensions=EDITOR_EXTENSIONS,
+        sanitize=True,
+        help_text="Main visible SEO-focused description for this safari.",
     )
 
     highlights = models.JSONField(
@@ -131,9 +158,123 @@ class SafariPackage(models.Model):
     updated_at = models.DateTimeField(
         auto_now=True
     )
-
+    
     class Meta:
         ordering = ["order", "title"]
 
     def __str__(self):
         return self.title
+
+class SafariHighlight(models.Model):
+    safari_package = models.ForeignKey(
+        SafariPackage,
+        on_delete=models.CASCADE,
+        related_name="highlight_items",
+    )
+    text = models.CharField(max_length=300)
+    order = models.PositiveIntegerField(default=0)
+
+    class Meta:
+        ordering = ["order", "id"]
+
+    def __str__(self):
+        return self.text
+
+
+class SafariItineraryDay(models.Model):
+    safari_package = models.ForeignKey(
+        SafariPackage,
+        on_delete=models.CASCADE,
+        related_name="itinerary_days",
+    )
+    day = models.CharField(max_length=80)
+    title = models.CharField(max_length=200)
+    description = models.TextField(blank=True)
+    order = models.PositiveIntegerField(default=0)
+
+    class Meta:
+        ordering = ["order", "id"]
+
+    def __str__(self):
+        return f"{self.day} - {self.title}"
+
+
+class SafariInclude(models.Model):
+    safari_package = models.ForeignKey(
+        SafariPackage,
+        on_delete=models.CASCADE,
+        related_name="include_items",
+    )
+    text = models.CharField(max_length=300)
+    order = models.PositiveIntegerField(default=0)
+
+    class Meta:
+        ordering = ["order", "id"]
+
+    def __str__(self):
+        return self.text
+
+
+class SafariExclude(models.Model):
+    safari_package = models.ForeignKey(
+        SafariPackage,
+        on_delete=models.CASCADE,
+        related_name="exclude_items",
+    )
+    text = models.CharField(max_length=300)
+    order = models.PositiveIntegerField(default=0)
+
+    class Meta:
+        ordering = ["order", "id"]
+
+    def __str__(self):
+        return self.text
+
+
+class SafariRelatedLink(models.Model):
+    safari_package = models.ForeignKey(
+        SafariPackage,
+        on_delete=models.CASCADE,
+        related_name="related_link_items",
+    )
+    label = models.CharField(max_length=200)
+    url = models.CharField(max_length=500)
+    order = models.PositiveIntegerField(default=0)
+
+    class Meta:
+        ordering = ["order", "id"]
+
+    def __str__(self):
+        return self.label
+
+class SafariFAQ(models.Model):
+    safari_package = models.ForeignKey(
+        SafariPackage,
+        on_delete=models.CASCADE,
+        related_name="faqs",
+    )
+
+    question = models.CharField(
+        max_length=300,
+    )
+
+    answer = ProseEditorField(
+        extensions=EDITOR_EXTENSIONS,
+        sanitize=True,
+    )
+
+    order = models.PositiveIntegerField(
+        default=0,
+    )
+
+    is_published = models.BooleanField(
+        default=True,
+    )
+
+    class Meta:
+        ordering = ["order", "id"]
+        verbose_name = "Safari FAQ"
+        verbose_name_plural = "Safari FAQs"
+
+    def __str__(self):
+        return self.question
